@@ -3,6 +3,7 @@
 ## **Nature Recreation**
 
 >Enjoy the outdoors and beautiful sights here in Maryville. There are numerous parks, trails, and recreational activities that are fun for the whole family. Explore the Missouri Arboretum, visit Nodaway County Historical Museum, or hammock at Mozingo Lake. Find your adventure below!
+
 # List of places to visit:
 + *Missouri Arboretum*
 + *Mozingo Lake Recreation Park*
