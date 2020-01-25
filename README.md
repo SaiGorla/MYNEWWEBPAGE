@@ -35,7 +35,7 @@ ImageSource:[museum](https://nodawaymuseum.wixsite.com/nchs/about)
 + The Nodaway County Historical Society Museum is a museum in Maryville, Missouri telling the history of Nodaway County, Missouri, United States.
 >The details about the above can be at: [Nodawaymuseum](https://nodawaymuseum.wixsite.com/nchs)
 
- ### References
+###  References
  + [Wikipedia](https://www.wikipedia.com)
  + [Mozinglake](https://www.mozingolake.com)
  + [WIX](https://nodawaymuseum.wixsite.com/nchs)
